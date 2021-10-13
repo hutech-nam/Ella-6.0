@@ -1639,10 +1639,10 @@
                 "option3": "Button 3"
             },
             "block": {
-            	"custom_width": {
-            		"label": "Custom Width",
-            		"info": "Custom width for Desktop (Unit %)" 
-            	}
+                "custom_width": {
+                    "label": "Custom Width",
+                    "info": "Custom width for Desktop (Unit %)" 
+                }
             }
         },
         "announcement-bar":
